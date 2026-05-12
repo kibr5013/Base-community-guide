@@ -1,5 +1,4 @@
-```md
-## Why Base Stands Out
+# Why Base Stands Out
 
 - Fast & low-cost transactions  
 - Strong builder-focused ecosystem  
