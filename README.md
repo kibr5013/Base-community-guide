@@ -7,4 +7,3 @@
 - Early adoption = bigger future opportunities  
 
 Build early. Stay active. Grow with Base. 🔵
-```
