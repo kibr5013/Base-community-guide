@@ -4,6 +4,6 @@
 - Strong builder-focused ecosystem  
 - Growing onchain community  
 - Great for NFTs, DeFi & SocialFi  
-- Early adoption = bigger future opportunities  
+- Early adoption = bigger future opportunities. 
 
 Build early. Stay active. Grow with Base. 🔵
